@@ -1,0 +1,47 @@
+h1{
+    font-size: 25px;
+    color : white;
+    margin-bottom: -15px;
+}
+
+
+p{
+    color : white;
+    font-size: 23px;
+    margin-bottom: -15px;
+}
+
+#main{
+
+    margin-left: -50;
+    margin-right: -50;
+    
+
+}
+
+.start_and_end{
+    margin-top: 100px;
+    margin-right : 30px;
+    text-align: right;
+    color : white;
+}
+
+#sign{
+    margin-right : 60px;
+    text-align: right;
+    color : white; 
+}
+
+
+body {
+    background-image: url('https://i.ibb.co/J3RGQgz/a3c58fac14bd00b7f17f35e0924a55f4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    margin-top: 150px;
+    width: 50%;
+
+}
+
+
