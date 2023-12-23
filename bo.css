@@ -12,7 +12,6 @@ p{
 }
 
 #main{
-    margin-top: 100px;
     margin-left: -50;
     margin-right: -50;
     
@@ -20,7 +19,6 @@ p{
 }
 
 .start_and_end{
-    
     margin-right : 30px;
     text-align: right;
     color : white;
@@ -40,7 +38,7 @@ body {
     background-size: cover;
     margin: auto;
     margin-top: 150px;
-    width: 80%;
+    width: 90%;
 
 }
 
