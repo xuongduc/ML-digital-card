@@ -1,17 +1,18 @@
 h1{
     font-size: 25px;
-    color : white;
+    color : black;
     margin-bottom: -15px;
 }
 
 
 p{
-    color : white;
+    color : black;
     font-size: 23px;
     margin-bottom: -15px;
 }
 
 #main{
+    background-color: aliceblue;
     margin-left: -50;
     margin-right: -50;
     
@@ -21,13 +22,13 @@ p{
 .start_and_end{
     margin-right : 30px;
     text-align: right;
-    color : white;
+    color : black;
 }
 
 #sign{
     margin-right : 60px;
     text-align: right;
-    color : white; 
+    color : black; 
 }
 
 
